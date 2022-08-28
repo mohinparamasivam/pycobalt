@@ -1,4 +1,10 @@
-PyCobalt is a Python API for Cobalt Strike.
+# PyCobalt is a Python API for Cobalt Strike.
+
+## Reference Link : https://f5.pm/go-1581.html
+
+## [dcsync_pycobalt_ Python API for Cobalt Strike.pdf](https://github.com/mohinparamasivam/pycobalt/files/9439343/dcsync_pycobalt_.Python.API.for.Cobalt.Strike.pdf)
+
+
 
 # Quick Start
 
